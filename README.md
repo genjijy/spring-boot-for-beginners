@@ -1,3 +1,9 @@
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+# spring-boot-for-beginners
+=======
+>>>>>>> 4856a23 (second commit)
 # Getting Started
 
 ### Reference Documentation
@@ -15,3 +21,7 @@ The following guides illustrate how to use some features concretely:
 * [Serving Web Content with Spring MVC](https://spring.io/guides/gs/serving-web-content/)
 * [Building REST services with Spring](https://spring.io/guides/tutorials/rest/)
 
+<<<<<<< HEAD
+=======
+>>>>>>> aaa619c (first commit)
+>>>>>>> 4856a23 (second commit)
