@@ -27,10 +27,6 @@ jobs:
           mvn clean
           mvn -B package --file pom.xml
 
-      - name: Generate Timestamp
-        id: timestamp
-        run: export BUILD_DATE=$(date +%Y-%m-%d)
-
       - name: Build Docker Image
         uses: docker/build-push-action@v6
         with:
